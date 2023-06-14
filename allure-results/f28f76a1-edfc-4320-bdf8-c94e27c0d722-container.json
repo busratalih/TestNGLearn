@@ -1,0 +1,1 @@
+{"uuid":"f28f76a1-edfc-4320-bdf8-c94e27c0d722","name":"utilities.BaseTestReport.setUp","children":["222cd5e1-8d69-4da2-88a6-310226befd74"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1686596553351,"stop":1686596560245}],"afters":[],"start":1686596553350,"stop":1686596560246}
